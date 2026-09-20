@@ -1,8 +1,9 @@
-# dse - Double Stratification Enumerator
+## dse : Double Stratification Enumerator
 
 Ying and Xu (2026+). Efficient Representation and Construction of Space-Filling Designs via a Double Stratification Enumerator
 
 Date: 9/19/2026
+
 
 ## Examples, Tables and Figures: 
 
@@ -35,4 +36,4 @@ Date: 9/19/2026
 ## Data:  
 
  soa81x9.csv : GSOA(81,9,3^2, 3)
- 
+
